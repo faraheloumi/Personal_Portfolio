@@ -112,6 +112,7 @@ export const PROJECTS = [
     github: "https://github.com/faraheloumi/Livrili",
     date: "January 2024 - March 2024",
   },
+  
   {
     title: "Stock and Cryptocurrency Tracker App",
     image: project6,
