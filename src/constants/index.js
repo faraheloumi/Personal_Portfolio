@@ -5,6 +5,7 @@ import project4 from "../assets/projects/fruit-vision-project.png";
 import project5 from "../assets/projects/livrili-project.png";
 import project6 from "../assets/projects/fyninsync-project.png";
 
+import certificate9 from "../assets/certificates/toeic.png";
 import certificate1 from "../assets/certificates/docker.png";
 import certificate2 from "../assets/certificates/ansible.png";
 import certificate3 from "../assets/certificates/kubernetes.png";
@@ -16,9 +17,9 @@ import certificate8 from "../assets/certificates/Gitlab-CI-CD-certification.png"
 
 import volunteering1 from "../assets/volunteering/ieee.jpg";
 import volunteering2 from "../assets/volunteering/ils.jfif";
-import volunteering3 from "../assets/volunteering/mts1.jfif";
+import volunteering5 from "../assets/volunteering/mts1.jfif";
 import volunteering4 from "../assets/volunteering/tsyp11-1.jpg";
-import volunteering5 from "../assets/volunteering/indabax.jpg";
+import volunteering3 from "../assets/volunteering/indabax.jpg";
 import volunteering6 from "../assets/volunteering/mts2.jpg";
 import volunteering7 from "../assets/volunteering/tsyp12.png";
 import volunteering8 from "../assets/volunteering/indaba2.jfif";
@@ -128,6 +129,14 @@ export const CONTACT = {
 };
 
 export const CERTIFICATES = [
+    {
+    title: "Test of English for International Communication (TOEIC) Certification - 765/990",
+    date: "July 14, 2025",
+    issuer: "Educational Testing Service (ETS)",
+    description:
+      "Earners of this badge have taken the AWS Academy Cloud Foundations course.",
+    image: certificate9,
+  },
   {
     title: "AWS Academy Graduate - AWS Academy Cloud Foundations",
     date: "November 03, 2024",
