@@ -15,7 +15,7 @@ import certificate6 from "../assets/certificates/cloud.png";
 import certificate7 from "../assets/certificates/CKA-certification.png";
 import certificate8 from "../assets/certificates/Gitlab-CI-CD-certification.png";
 
-import volunteering1 from "../assets/volunteering/ieee.jpg";
+import volunteering1 from "../assets/volunteering/ieee.jfif";
 import volunteering2 from "../assets/volunteering/ils.jfif";
 import volunteering5 from "../assets/volunteering/mts1.jfif";
 import volunteering4 from "../assets/volunteering/tsyp11-1.jpg";
