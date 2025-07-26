@@ -70,4 +70,4 @@ This portfolio is a showcase of my skills, experiences, and achievements. Feedba
 ---
 
 ## Contact
-If you have any inquiries, feel free to reach out via [LinkedIn](www.linkedin.com/in/cyrine-anene-6b79b0245) or [Email](cyrine.anene@supcom.tn).
+If you have any inquiries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/farah-elloumi-735ab1269/) or [Email](farah.elloumi@supcom.tn).
