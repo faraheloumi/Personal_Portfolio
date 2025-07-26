@@ -67,7 +67,7 @@ The ``Volunteering`` section highlights my contributions to various organization
 ## Conclusion
 This portfolio is a showcase of my skills, experiences, and achievements. Feedback and contributions are always welcome!
 
----
+--- 
 
 ## Contact
 If you have any inquiries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/farah-elloumi-735ab1269/) or [Email](farah.elloumi@supcom.tn).
