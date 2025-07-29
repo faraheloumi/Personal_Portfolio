@@ -136,6 +136,7 @@ export const CERTIFICATES = [
     issuer: "Educational Testing Service (ETS)",
     description:
       "Earners of this badge have taken the AWS Academy Cloud Foundations course.",
+    credlyLink: "https://www.linkedin.com/posts/farah-elloumi-735ab1269_i-am-thrilled-to-share-that-i-have-achieved-activity-7355888691489185793-s_vX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHWDdkB4xoSYPO6p34W-qKoN4EakNB_AwM",
     image: certificate9,
   },
   {
