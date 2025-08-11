@@ -145,7 +145,7 @@ export const CERTIFICATES = [
     issuer: "Amazon Web Services (AWS)",
     description:
       "Earners of this badge have taken the AWS Academy Cloud Foundations course.",
-    credlyLink: "https://www.credly.com/badges/84cf4b42-2fc4-44e8-9db6-618d6e436ce5/linked_in_profile",
+    credlyLink: "https://www.credly.com/badges/7d270443-830c-4053-990c-1b283d89f866",
     image: certificate6,
   },
   {
@@ -154,7 +154,7 @@ export const CERTIFICATES = [
     issuer: "Amazon Web Services (AWS)",
     description:
       "Earners of this badge have completed the AWS Academy Machine Learning Foundations course.",
-    credlyLink: "https://www.credly.com/badges/ea624abd-d57e-4f72-958d-626242f1af80/linked_in_profile",
+    credlyLink: "https://www.credly.com/badges/b24a66d6-6139-48a7-9137-ed7a1cfe651b",
     image: certificate5,
   },
 
